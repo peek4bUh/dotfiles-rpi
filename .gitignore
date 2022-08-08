@@ -4,6 +4,7 @@
 # Except these files and folders
 !.gitignore
 !README
+!.xinitrc
 
 !.config/
 !.fonts/
