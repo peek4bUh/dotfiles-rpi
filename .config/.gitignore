@@ -4,6 +4,6 @@
 
 # Except these folders
 !dwm/
+!dwm-statusbar
 !dmenu/
 !st/
-
