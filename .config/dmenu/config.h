@@ -9,7 +9,7 @@ static int min_width = 500;		    /* minimun width when centered */
 static const char *fonts[] = {
 	"RobotoMono Nerd Font:style=Regular:size=16"
 };
-static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
+static const char *prompt = "Search:";      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
 	/*     fg         bg       */
 	[SchemeNorm] = { "#bbbbbb", "#222222" },
