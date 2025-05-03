@@ -9,5 +9,6 @@ end })
 Plug('junegunn/fzf.vim')
 Plug('vim-airline/vim-airline')
 Plug('ryanoasis/vim-devicons')
+Plug('karb94/neoscroll.nvim')
 
 vim.call('plug#end')

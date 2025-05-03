@@ -19,6 +19,7 @@ vim.keymap.set("n", "<C-k>", "<C-W>k")
 vim.keymap.set("n", "<C-l>", "<C-W>l")
 
 -- Exit to normal mode easier 
-vim.keymap.set("n", "<C-c>", "Esc")
+vim.keymap.set("i", "<C-c>", "<Esc>")
 
 vim.keymap.set("x", "<leader>p", [["_dP]])
+
